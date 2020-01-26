@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311000943867",
+    "firebase_url": "https://finale-f0461.firebaseio.com",
+    "project_id": "finale-f0461",
+    "storage_bucket": "finale-f0461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311000943867:android:1b04a078815e825e47b45e",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311000943867-t1spv077d2to2cn6dc1dq1agcde4l6aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhO7Q8aT49I7dGO58We5MHFYU-STIZoeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311000943867-t1spv077d2to2cn6dc1dq1agcde4l6aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
